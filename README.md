@@ -3,9 +3,8 @@
 -------------------------------------------------------------------------------
 [Copyright holder(s)]
 
-Copyright holder(s):
-	For source videos "baby"/"car_engine"/"drum", the Copyright holder is MIT CSAIL;
-	For source videos "Barrier_gate"/"Bead"/"Vibration generator", the Copyright holder is LONG ZHANG.
+For videos "baby"/"car_engine"/"drum", the Copyright holder is MIT CSAIL;
+For videos "Barrier_gate"/"Bead"/"Vibration generator", the Copyright holder is LONG ZHANG.
 -------------------------------------------------------------------------------
 [Terms of Use]
 
